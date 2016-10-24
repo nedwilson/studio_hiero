@@ -17,5 +17,5 @@ for l_fmtWorker in sorted(l_formattedList):
 import hiero.ui
 
 for o_timelineItem in hiero.ui.getTimelineEditor(hiero.ui.activeSequence()).selection():
-    o_timelineItem.setName(o_timelineItem.name().split('_')[0].upper()
+    o_timelineItem.setName(o_timelineItem.name().split('_')[0].upper())
 
