@@ -98,7 +98,7 @@
        </sets>
       </TagClass>
      </TagClassProjectItem>
-     <BinProjectItem editable="1" guid="{4efd406c-c425-42a7-bf9e-717e089f3438}" name="ML Tags">
+     <BinProjectItem editable="1" guid="{4efd406c-c425-42a7-bf9e-717e089f3438}" name="IH Tags">
       <items>
        <TagClassProjectItem editable="1" guid="{761a35bb-a33d-49dd-8e21-334e04d442a2}" name="Arri 65">
         <TagClass editable="1" objName="tag" guid="ffbc0a2f-6611-4b92-bb02-73030722d863" visible="1" icon="icons:TagCameraTracker.png" name="Arri 65">
